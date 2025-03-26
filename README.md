@@ -2,7 +2,7 @@
 A sample code for Scale-oriented Zonal Generative Adversarial Network (SoZoGAN) framework by Wu et al, under review.
 
 # Reference
-Haokai Wu, Yaoran Chen, Mohammed Nabil1, Dai Zhou, Hu Huang, and Yong Cao, "Length scale-oriented deep learning for cross-domain generalization of turbulence super-resolution," under review.
+Haokai Wu, Yaoran Chen, Mohammed Nabil, Dai Zhou, Hu Huang, and Yong Cao, "Length scale-oriented zonal deep learning for cross-domain generalization of turbulence super-resolution," under review.
 
 # Information
 The present framework composed of several pretrained super-resolution generative adversarial networks (SRGANs) achieves scale-oriented global field generations from coarse flow fields in a zero-shot manner.
